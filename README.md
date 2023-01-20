@@ -21,5 +21,7 @@
 Rank вычисляется по формуле -  
 (RAM_size * 30 + Size_SDD * 0.5) * 1 / (Price / 700)  
 
+### Rank TOP 5 ### 
+![изображение](https://user-images.githubusercontent.com/57752592/213621093-49dd06e5-0938-4306-b28c-b1ae9161bf85.png)
 
 Время выполнения скрипта может занять до 40 минут
